@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cjzheng01
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning Kotlin and Android Development.
+- 🌱 I’m currently learning Go.
 - 📫 How to reach me? Email me at cjzheng01@gmail.com
 
 <!---
